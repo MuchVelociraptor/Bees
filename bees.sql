@@ -166,7 +166,8 @@ INSERT INTO "bees" ("bees_id", "bees_txt", "date_added") VALUES
 	(138, 'What if bees were crisbee?', '2022-02-01 00:33:10'),
 	(139, 'What if bees are pizza?', '2022-02-01 00:33:10'),
 	(140, 'What if bees were bees?', '2022-02-01 00:33:10'),
-	(141, 'What if bees refactored the databees?', '2022-02-01 00:33:10');
+	(141, 'What if bees refactored the databees?', '2022-02-01 00:33:10'),
+	(142, 'What if bees ate pollen knowing it''s flower cum?', '2022-02-01 07:35:51');
 /*!40000 ALTER TABLE "bees" ENABLE KEYS */;
 
 -- Dumping structure for table bees.bees_sources
@@ -322,7 +323,8 @@ INSERT INTO "bees_sources" ("bees_id", "sources_id") VALUES
 	(140, 11),
 	(141, 7),
 	(135, 11),
-	(135, 13);
+	(135, 13),
+	(142, 11);
 /*!40000 ALTER TABLE "bees_sources" ENABLE KEYS */;
 
 -- Dumping structure for table bees.sources
